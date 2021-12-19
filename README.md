@@ -4,7 +4,7 @@ A05 - Parsing of employees
 
 ### main.c
 
-Seperated into three main parts : {
+Seperated into four main parts : {
   
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Get input : Loop taking in input line by line and passing it to the parser,
   
