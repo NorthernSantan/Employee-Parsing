@@ -8,11 +8,11 @@ Seperated into three main parts : {
   
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Get input : Loop taking in input line by line and passing it to the parser,
   
-  Parse input : Use parsing handler functions to idnetify individual parts of the structure whiule skipping over spaces,
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Parse input : Use parsing handler functions to idnetify individual parts of the structure whiule skipping over spaces,
   
-  Print function : Print output in specified format,
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Print function : Print output in specified format,
   
-  Sort function : Bubble sort to rearrange employees by DOB (Time complexity O(n^2))
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sort function : Bubble sort to rearrange employees by DOB (Time complexity O(n^2))
   
 } 
 
