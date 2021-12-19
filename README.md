@@ -6,7 +6,7 @@ A05 - Parsing of employees
 
 Seperated into three main parts : {
   
-  \tGet input : Loop taking in input line by line and passing it to the parser,
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Get input : Loop taking in input line by line and passing it to the parser,
   
   Parse input : Use parsing handler functions to idnetify individual parts of the structure whiule skipping over spaces,
   
